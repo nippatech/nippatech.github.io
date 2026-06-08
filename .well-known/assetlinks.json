@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.nippatech.untennisshi",
+    "sha256_cert_fingerprints": [
+      "3E:CC:AC:8B:96:2B:07:5D:37:28:EF:15:CD:A1:10:D5:9B:85:05:EC:51:12:27:21:4E:99:CD:1B:79:14:73:78"
+    ]
+  }
+}]
